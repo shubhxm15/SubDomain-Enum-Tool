@@ -1,2 +1,2 @@
-How to Run -
-python3 main.py <domain>
+(In Terminal) Run -
+python3 main.py "domain"
